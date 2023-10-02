@@ -1,0 +1,4 @@
+Model\Conexion.class
+DAO\DAOingreso.class
+com\mycompany\proyecto03\JakartaRestConfiguration.class
+Model\Crudingreso.class
